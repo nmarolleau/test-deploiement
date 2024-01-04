@@ -2,7 +2,7 @@ name: Code Linter
 
 on:
   push:
-    branches: mmain
+    branches: main
 
 jobs:
   build:
