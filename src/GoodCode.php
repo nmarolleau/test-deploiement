@@ -13,7 +13,7 @@ class GoodCode implements CodeInterface
      */
     public function helloWorld(): string
     {
-        return 'Hello world, I am a good code, believe meze.';
+        return 'Hello world, I am a good code, believe mezedf.';
     }
 
     /**
