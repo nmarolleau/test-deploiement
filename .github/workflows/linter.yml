@@ -1,6 +1,8 @@
 name: Code Linter
 
-on: pull_request
+on:
+  push:
+    branches: mmain
 
 jobs:
   build:
