@@ -1,0 +1,19 @@
+{
+    "name": "gdegirmenci/php-lint-github-action-example",
+    "description": "This is an example usage of Github action to improve code quality with using linter.",
+    "authors": [
+        {
+            "name": "Gökhan Değirmenci",
+            "email": "gdegirmenci0@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPLintGithubActionExample": "src/"
+        }
+    }
+}
